@@ -12,7 +12,7 @@ class App extends React.Component
           justifyContent:"center", alignItems:"center"
         }}
       >
-        <Text>Hello World</Text>
+        <Text>Hello World!</Text>
       </View>
     )
   }
